@@ -1,10 +1,10 @@
-### Hello world, I'm [Marcelo Kunze] 👋
+### Hello world, I'm Marcelo Kunze 👋
 
-## Product Designer focusing on Web3
+# Product Designer focusing on Web3
 
 ⚡ Currently building [Mintbase](https://www.mintbase.xyz/)
 
-## Find me around the web 🌎
+# Find me around the web 🌎
 
 🔗 [Design Portfolio](https://marcelokunze.com/)
 **Latest cool projects:**
