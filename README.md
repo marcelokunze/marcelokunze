@@ -1,10 +1,5 @@
 ## Hello world, I'm Marcelo Kunze 👋
 
-<a href="https://marcelokunze.com/" target="_blank">
-  <img src="https://arweave.net/PV8kPnoP7kbbLLqDuuW1rd4eg6HQmgEAEHokffIWyX8" style="width: 400px"/>
-</a>
-
-
 ### Product Designer focusing on Web3
 
 I'm all about efficient design systems and working with developers.
@@ -23,3 +18,7 @@ I'm all about efficient design systems and working with developers.
 👨‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
 
 Nice to have you here!
+
+<a href="https://marcelokunze.com/" target="_blank">
+  <img src="https://arweave.net/PV8kPnoP7kbbLLqDuuW1rd4eg6HQmgEAEHokffIWyX8" style="width: 400px"/>
+</a>
