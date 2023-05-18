@@ -1,5 +1,8 @@
 ## Hello world, I'm Marcelo Kunze 👋
-![My Signature](https://arweave.net/PV8kPnoP7kbbLLqDuuW1rd4eg6HQmgEAEHokffIWyX8)
+
+<a href="https://marcelokunze.com/" target="_blank">
+  <img src="https://arweave.net/PV8kPnoP7kbbLLqDuuW1rd4eg6HQmgEAEHokffIWyX8" style="width: 400px"/>
+</a>
 
 
 ### Product Designer focusing on Web3
