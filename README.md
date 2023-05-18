@@ -7,6 +7,7 @@
 **Find me around the web** 🌎
 
 🔗 [Design Portfolio](https://marcelokunze.com/)
+
 🐦 [Twitter](https://twitter.com/marcelokunze)  
 👨‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
 
