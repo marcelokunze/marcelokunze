@@ -7,7 +7,7 @@
 **Find me around the web** 🌎
 
 🔗 [Design Portfolio](https://marcelokunze.com/)
-  Latest cool projects:
+    Latest cool projects:
   - [Alymente Branding and UI/UX](https://www.behance.net/gallery/107144095/Identidade-Visual-e-App-Alymente)
   - [3XR Branding](https://www.behance.net/gallery/150759005/3XR-Visual-Identity)
 
