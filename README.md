@@ -2,7 +2,7 @@
 
 ### Product Designer focusing on Web3
 
-I'm all about efficient design systems and working with developers.
+I'm all about efficient design systems and working alongside developers.
 
 ⚡ Currently building [Mintbase](https://www.mintbase.xyz/)
 
