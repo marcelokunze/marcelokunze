@@ -4,7 +4,7 @@
 
 I'm all about efficient design systems and working alongside developers.
 
-⚡ Currently building [Mintbase](https://www.mintbase.xyz/), [Mintbase Wallet](https://wallet.mintbase.xyz/) and [Mintbase Templates](https://templates.mintbase.xyz/)
+⚡ Currently building [Mintbase](https://www.mintbase.xyz/), [Mintbase Wallet](https://wallet.mintbase.xyz/) and [Mintbase Templates](https://templates.mintbase.xyz/).
 
 ### Find me around the web 🌎
 
