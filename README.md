@@ -1,6 +1,6 @@
 ## Hello world, I'm Marcelo Kunze 👋
 
-### Product Designer focusing on Web3
+### Design Engineer focusing on Web3
 
 I'm all about efficient design systems and working alongside developers.
 
