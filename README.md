@@ -10,12 +10,11 @@ I'm all about efficient design systems and frontend development.
 
 🔗 [Personal Website](https://marcelokunze.com/)
     
- *Latest cool projects:*
+ *Latest cool projects:*<br>
   - [Mintbase Design System, UI/UX & Branding](https://www.behance.net/gallery/169239729/Mintbase-NFT-Design-System-UIUX-Brand)
   - [Alymente Branding & UI/UX](https://www.behance.net/gallery/107144095/Identidade-Visual-e-App-Alymente)
-
- *Social Links:*
-
+<br>
+ *Social Links:* <br>
 🐦 [Twitter](https://twitter.com/marcelokunze)  
 👨‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
 
