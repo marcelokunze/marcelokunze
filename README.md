@@ -11,8 +11,8 @@ I'm all about efficient design systems and working alongside developers.
 🔗 [Design Portfolio](https://marcelokunze.com/)
     
  *Latest cool projects:*
-  - [Alymente Branding and UI/UX](https://www.behance.net/gallery/107144095/Identidade-Visual-e-App-Alymente)
-  - [3XR Branding](https://www.behance.net/gallery/150759005/3XR-Visual-Identity)
+  - [Mintbase Design System, UI/UX & Branding](https://www.behance.net/gallery/169239729/Mintbase-NFT-Design-System-UIUX-Brand)
+  - [Alymente Branding & UI/UX](https://www.behance.net/gallery/107144095/Identidade-Visual-e-App-Alymente)
 
 🐦 [Twitter](https://twitter.com/marcelokunze)  
 👨‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
