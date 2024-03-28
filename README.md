@@ -6,7 +6,7 @@ With extensive experience in Product Design and working alongside developers I h
 
 ⚡ Currently building [Mintbase](https://www.mintbase.xyz/), [Mintbase Wallet](https://wallet.mintbase.xyz/) and [Mintbase Templates](https://templates.mintbase.xyz/).
 
-### Find me around the web 🌎
+### Links 🌎
 
 🔗 [Personal Website](https://marcelokunze.com/)
     
@@ -16,7 +16,7 @@ With extensive experience in Product Design and working alongside developers I h
 
  *Social Links:*
  
-🐦 [Twitter](https://twitter.com/marcelokunze)  
+🐦 [X](https://twitter.com/marcelokunze)  
 👨‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
 
 Nice to have you here!
