@@ -2,7 +2,7 @@
 
 ### Design Engineer focusing on Web3
 
-I'm all about efficient design systems and frontend development.
+With extensive experience in Product Design and working alongside developers I help bridge efficient design into the development process.
 
 ⚡ Currently building [Mintbase](https://www.mintbase.xyz/), [Mintbase Wallet](https://wallet.mintbase.xyz/) and [Mintbase Templates](https://templates.mintbase.xyz/).
 
@@ -10,7 +10,7 @@ I'm all about efficient design systems and frontend development.
 
 🔗 [Personal Website](https://marcelokunze.com/)
     
- *Latest cool projects:*
+ *Latest projects:*
   - [Mintbase Design System, UI/UX & Branding](https://www.behance.net/gallery/169239729/Mintbase-NFT-Design-System-UIUX-Brand)
   - [Alymente Branding & UI/UX](https://www.behance.net/gallery/107144095/Identidade-Visual-e-App-Alymente)
 
