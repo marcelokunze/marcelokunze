@@ -1,6 +1,6 @@
 I help bridge efficient design into the development process.
 
-Currently building [Bitte](https://bitte.ai/)
+Currently building [Bitte Protocol](https://bitte.ai/)
 
 ### Links
 
