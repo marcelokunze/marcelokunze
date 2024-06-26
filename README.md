@@ -1,12 +1,11 @@
 ### Product Designer and Frontend Developer
 
-With extensive experience in Product Design and working alongside developers I help bridge efficient design into the development process.
+I help bridge efficient design into the development process.
+Currently building [Bitte](https://bitte.ai/)
 
-⚡ Currently building [Bitte](https://bitte.ai/)
+### Links
 
-### Links 🌎
-
-🔗 [Personal Website](https://marcelokunze.com/)
+[Personal Website](https://marcelokunze.com/)
     
  *Latest projects:*
   - [Mintbase Design System, UI/UX & Branding](https://www.behance.net/gallery/169239729/Mintbase-NFT-Design-System-UIUX-Brand)
@@ -14,7 +13,8 @@ With extensive experience in Product Design and working alongside developers I h
 
  *Social Links:*
  
-- [X](https://twitter.com/marcelokunze)  
+- [X](https://twitter.com/marcelokunze)
+- [Behance](https://behance.net/marcelokunze) 
 - [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
 
 Nice to have you here!
