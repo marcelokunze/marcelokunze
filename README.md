@@ -12,9 +12,7 @@ Currently building [Bitte Protocol](https://bitte.ai/)
 
  *Social Links:*
  
-- [X](https://twitter.com/marcelokunze)
-- [Behance](https://behance.net/marcelokunze) 
-- [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
+[X](https://twitter.com/marcelokunze) / [Behance](https://behance.net/marcelokunze) / [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
 
 Nice to have you here!
 
