@@ -1,6 +1,5 @@
-### Product Designer and Frontend Developer
-
 I help bridge efficient design into the development process.
+
 Currently building [Bitte](https://bitte.ai/)
 
 ### Links
