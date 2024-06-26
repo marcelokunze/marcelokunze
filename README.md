@@ -1,10 +1,8 @@
-## Hello world, I'm Marcelo Kunze 👋
-
 ### Product Designer and Frontend Developer
 
 With extensive experience in Product Design and working alongside developers I help bridge efficient design into the development process.
 
-⚡ Currently building [Mintbase](https://www.mintbase.xyz/), [Mintbase Wallet](https://wallet.mintbase.xyz/) and [Mintbase Templates](https://templates.mintbase.xyz/).
+⚡ Currently building [Bitte](https://bitte.ai/)
 
 ### Links 🌎
 
@@ -16,8 +14,8 @@ With extensive experience in Product Design and working alongside developers I h
 
  *Social Links:*
  
-🐦 [X](https://twitter.com/marcelokunze)  
-👨‍💼 [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
+- [X](https://twitter.com/marcelokunze)  
+- [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
 
 Nice to have you here!
 
