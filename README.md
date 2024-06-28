@@ -4,7 +4,7 @@ Currently building [Bitte Protocol](https://bitte.ai/)
 
 ### Links
 
-[Personal Website](https://marcelokunze.com/)
+🌐 [Personal Website](https://marcelokunze.com/)
     
  *Latest projects:*
   - [Mintbase Design System, UI/UX & Branding](https://www.behance.net/gallery/169239729/Mintbase-NFT-Design-System-UIUX-Brand)
@@ -13,8 +13,6 @@ Currently building [Bitte Protocol](https://bitte.ai/)
  *Social Links:*
  
 [X](https://twitter.com/marcelokunze) / [Behance](https://behance.net/marcelokunze) / [LinkedIn](https://www.linkedin.com/in/marcelo-kunze-6538a3139/)
-
-Nice to have you here!
 
 
 <a href="https://www.mintbase.xyz/meta/flyingthings.mintbase1.near:550dbf515108475158acd53e684ffd48" target="_blank">
