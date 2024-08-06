@@ -1,7 +1,5 @@
 I help bridge efficient design into the development process.
 
-Currently building [Bitte Protocol](https://bitte.ai/)
-
 ### Links
 
 🌐 [Personal Website](https://marcelokunze.com/)
