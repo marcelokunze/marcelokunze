@@ -1,4 +1,4 @@
-I bring efficient design into the development process.
+I implement efficient design into the development process.
  
 [marcelokunze.com](https://marcelokunze.com/)
 
