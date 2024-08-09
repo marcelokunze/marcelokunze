@@ -1,4 +1,4 @@
-I help bridge efficient design into the development process.
+I bring efficient design into the development process.
  
 [marcelokunze.com](https://marcelokunze.com/)
 
