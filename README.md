@@ -1,7 +1,6 @@
 I implement efficient design into the development process.
  
-[WalkSmart.AI](https://walksmart.ai/)
-[marcelokunze.com](https://marcelokunze.com/)
+[WalkSmart.AI](https://walksmart.ai/) // [marcelokunze.com](https://marcelokunze.com/)
 
 <br/><br/>
 
