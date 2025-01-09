@@ -1,4 +1,4 @@
-I implement efficient design into the development process.
+I implement efficient design into the development process. Or, I code it myself.
  
 [WalkSmart.AI](https://walksmart.ai/) / [marcelokunze.com](https://marcelokunze.com/)
 
