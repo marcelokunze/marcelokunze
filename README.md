@@ -1,4 +1,4 @@
-I implement efficient design into the development process, and sometimes code it myself.
+Human with a computer.
  
 [WalkSmart.AI](https://walksmart.ai/) / [marcelokunze.com](https://marcelokunze.com/)
 
