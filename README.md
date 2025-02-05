@@ -1,4 +1,4 @@
-Human with a computer.
+I help bridge the gap between efficient design and development, and sometimes I code it myself.
  
 [WalkSmart.AI](https://walksmart.ai/) / [marcelokunze.com](https://marcelokunze.com/)
 
