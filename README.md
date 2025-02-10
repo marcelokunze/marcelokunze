@@ -1,6 +1,6 @@
 I help bridge the gap between efficient design and development, and sometimes I code it myself.
 
-Currently building [WalkSmart](https://walksmart.ai/).
+Currently building [WalkSmart](https://walksmart.ai/) and [ZenPersonal](https://zenpersonal.app/).
 
 <br/><br/>
 
