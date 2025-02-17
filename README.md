@@ -1,4 +1,4 @@
-Currently building [WalkSmart](https://walksmart.ai/) and [ZenPersonal](https://zenpersonal.app/).
+Currently building [WalkSmart](https://walksmart.ai/), [ZenPersonal](https://zenpersonal.app/) and [Bitte](https://bitte.ai/)
 
 <br/><br/>
 
