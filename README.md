@@ -1,4 +1,4 @@
-Gti pushing pixels
+Git pushing pixels
 
 Currently building [WalkSmart](https://walksmart.ai/), [ZenPersonal](https://zenpersonal.app/) and [Bitte](https://bitte.ai/).
 
