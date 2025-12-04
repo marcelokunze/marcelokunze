@@ -1,6 +1,4 @@
-Git pushing pixels
-
-Currently building [WalkSmart](https://walksmart.ai/), [ZenPersonal](https://zenpersonal.app/) and [Bitte](https://bitte.ai/).
+design engineer currently building [MCPay](https://mcpay.tech/) and [WalkSmart](https://walksmart.ai/)
 
 <br/><br/>
 
