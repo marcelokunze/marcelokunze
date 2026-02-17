@@ -1,4 +1,4 @@
-design engineer currently building [MCPay](https://mcpay.tech/) and [WalkSmart](https://walksmart.ai/)
+design engineer currently building [Frames](https://frames.ag/) and [WalkSmart](https://walksmart.ai/)
 
 <br/><br/>
 
